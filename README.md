@@ -19,7 +19,7 @@ __Voice and Text Channels__
 - Discord supports voice and text channels separately
 
 - Clicking on a voice channel will enter you into that channel
-![Joining a voice channel example](/discord gifs/channel_categories.gif)
+![Joining a voice channel example](https://github.com/nekosoft/just-discord-things/blob/instructions/discord%20gifs/channel_categories.gif)
 
 - There is a voice channel, which will be named the same as a second channel which will be text only
 - While in a voice channel, you can click on any other text channel and type in it
