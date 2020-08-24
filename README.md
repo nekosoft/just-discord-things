@@ -28,6 +28,7 @@
 - While in a voice channel, you can click on any other text channel and type in it
 
 ### Creating a channel
+- need to add stuff
 
 ### Moving People Around Channels
 You can move people in and out of channels, including yourself.
