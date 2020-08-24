@@ -83,7 +83,7 @@ Be careful with this option, if you alt-tab, get notifications, etc, people can 
 __Applications Share__
 This will share just the applicatioon window that you select. To avoid sharing everything on your desktop, you can choose just one specific (and only this) application. If this gets a bit tricky, the Screens option is simpler but has more risk. 
 
-![Application screen sharing option](https://github.com/nekosoft/just-discord-things/blob/instructions/discord_gifs/appplications_option.png)
+![Application screen sharing option](https://github.com/nekosoft/just-discord-things/blob/instructions/discord_gifs/applications_option.png)
 
 ### Disconnecting from Screen Share
 There will be an option that shows up in the preview of your shared screen. It's a __desktop icon with an x in the middle.__ 
