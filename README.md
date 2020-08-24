@@ -71,7 +71,8 @@ In the bottom left corner, there is an overview of:
 User Control is also where you'll find the __Screen Share__ option. You have to be connected to a voice channel to be able to screen share. Anybody in that voice channel only can view your screen.
 
 Starting screen share from User Control:
-![Start Screen Share from User Control](https://github.com/nekosoft/just-discord-things/blob/instructions/discord_gifs/user_control_start_screen_share_options.gif)
+
+![Start Screen Share from User Control](https://github.com/nekosoft/just-discord-things/blob/instructions/discord_gifs/user_control_start_screen_share.gif)
 
 Screen Share Options:
 __Screens__
