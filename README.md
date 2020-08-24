@@ -1,5 +1,7 @@
 # For The Coaches
 
+### Table of Contents?
+
 ## A proactive coach:
 - expects silences
 - understands the silences will get awkward
@@ -88,6 +90,7 @@ There will be an option that shows up in the preview of your shared screen. It's
 ![Disconnect from screen share](https://github.com/nekosoft/just-discord-things/blob/instructions/discord%20gifs/stop_streaming.png)
 
 __If you get overwhelmed, disconnecting from the voice channel and reconnecting is an alternate way to stop a screen share.__
+
 
 ## Three Types of Questions and How To Handle Them (by JC)
 
