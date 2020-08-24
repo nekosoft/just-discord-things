@@ -22,7 +22,7 @@
 
 - Clicking on a voice channel will enter you into that channel automatically, so be careful!
 
-![Joining a voice channel example](https://github.com/nekosoft/just-discord-things/blob/instructions/discord%20gifs/channel_categories.gif)
+![Joining a voice channel example](https://github.com/nekosoft/just-discord-things/blob/instructions/discord_gifs/channel_categories.gif)
 
 - There is a voice channel, which will be named the same as a second channel which will be text only
 - While in a voice channel, you can click on any other text channel and type in it
@@ -37,7 +37,7 @@ You can move people in and out of channels, including yourself.
 
 *Note: it's a bit weird and makes someone feel like they're not in control, so get their permission and let them know you're about to move them*
 
-![Moving someone in a voice channel example](https://github.com/nekosoft/just-discord-things/blob/instructions/discord%20gifs/move_someone.gif)
+![Moving someone in a voice channel example](https://github.com/nekosoft/just-discord-things/blob/instructions/discord_gifs/move_someone.gif)
 
 ### Muting People
 Sometimes people will accidentally leave their mics on, which can get noisy if someone is trying to speak. If someone's voice is coming through, they will have a green highlight around their avatar
@@ -46,7 +46,7 @@ Sometimes people will accidentally leave their mics on, which can get noisy if s
 2. Click the "Mute" checkbox to check it __not Server Mute__
 3. Repeat above to unmute
 
-![Muting someone in a voice channel example](https://github.com/nekosoft/just-discord-things/blob/instructions/discord%20gifs/mute_someone.gif)
+![Muting someone in a voice channel example](https://github.com/nekosoft/just-discord-things/blob/instructions/discord_gifs/mute_someone.gif)
 
 People can unmute themselves too by repeating the steps above, or using User Control (see User Control).
 
@@ -63,7 +63,7 @@ In the bottom left corner, there is an overview of:
 - if you are connected to a voice server, and which one it is
 - disconnect button
 
-![User Control](https://github.com/nekosoft/just-discord-things/blob/instructions/discord%20gifs/user_control.gif)
+![User Control](https://github.com/nekosoft/just-discord-things/blob/instructions/discord_gifs/user_control.gif)
 
 ## Screen Sharing
 
@@ -71,24 +71,24 @@ In the bottom left corner, there is an overview of:
 User Control is also where you'll find the __Screen Share__ option. You have to be connected to a voice channel to be able to screen share. Anybody in that voice channel only can view your screen.
 
 Starting screen share from User Control:
-![Start Screen Share from User Control](https://github.com/nekosoft/just-discord-things/blob/instructions/discord%20gifs/user_control_start_screen_share_options.gif)
+![Start Screen Share from User Control](https://github.com/nekosoft/just-discord-things/blob/instructions/discord_gifs/user_control_start_screen_share_options.gif)
 
 Screen Share Options:
 __Screens__
 This will share your entire Desktop screen (whichever you select, if you have more than 1 monitor). 
 Be careful with this option, if you alt-tab, get notifications, etc, people can see *everything* on your screen.
 
-![Screens screen sharing option](https://github.com/nekosoft/just-discord-things/blob/instructions/discord%20gifs/screen_option.png)
+![Screens screen sharing option](https://github.com/nekosoft/just-discord-things/blob/instructions/discord_gifs/screen_option.png)
 
 __Applications Share__
 This will share just the applicatioon window that you select. To avoid sharing everything on your desktop, you can choose just one specific (and only this) application. If this gets a bit tricky, the Screens option is simpler but has more risk. 
 
-![Application screen sharing option](https://github.com/nekosoft/just-discord-things/blob/instructions/discord%20gifs/appplications_option.png)
+![Application screen sharing option](https://github.com/nekosoft/just-discord-things/blob/instructions/discord_gifs/appplications_option.png)
 
 ### Disconnecting from Screen Share
 There will be an option that shows up in the preview of your shared screen. It's a __desktop icon with an x in the middle.__ 
 
-![Disconnect from screen share](https://github.com/nekosoft/just-discord-things/blob/instructions/discord%20gifs/stop_streaming.png)
+![Disconnect from screen share](https://github.com/nekosoft/just-discord-things/blob/instructions/discord_gifs/stop_streaming.png)
 
 __If you get overwhelmed, disconnecting from the voice channel and reconnecting is an alternate way to stop a screen share.__
 
