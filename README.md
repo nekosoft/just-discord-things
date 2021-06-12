@@ -43,7 +43,7 @@ You can move people in and out of channels, including yourself.
 Sometimes people will accidentally leave their mics on, which can get noisy if someone is trying to speak. If someone's voice is coming through, they will have a green highlight around their avatar
 
 1. Right click their name
-2. Click the "Mute" checkbox to check it __not Server Mute__
+2. Click the "Mute" checkbox to check it if you want to mute just for yourself, use __Server Mute__ if you want to __mute for everyone__ but you must remember to unmute them
 3. Repeat above to unmute
 
 ![Muting someone in a voice channel example](https://github.com/nekosoft/just-discord-things/blob/master/discord_gifs/mute_someone.gif)
